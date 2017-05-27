@@ -1,0 +1,25 @@
+AVP:
+中文学名=冬青树
+科=冬青科
+纲=双子叶植物纲
+亚门=被子植物亚门
+分布区域=中国南部
+门=种子植物门
+拉丁学名=Ilex chinensis Sims
+界=植物界
+种=冬青树
+属=冬青属
+目=无患子目
+
+TAG:
+植物
+自然
+
+INFO:
+冬青属常绿乔木，国家重点保护植物。
+树冠卵圆形，树皮平滑，呈灰青色。小枝浅绿色。叶互生，长椭圆形，薄草质，边缘疏生浅锯齿，表面深绿色，有光泽。花单生，雌雄异株，排列成聚伞花序，着生枝端叶腋；花淡紫红色，有香气。核果椭圆形，熟时呈深红色，经冬不落。花期5月，果熟期10～11月。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

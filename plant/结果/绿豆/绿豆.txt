@@ -1,0 +1,35 @@
+AVP:
+种类=绿色 黄色
+拉丁学名=Vigna radiata (Linn.) Wilczek
+别名=青小豆,菉豆,植豆
+门=被子植物门 Magnoliophyta
+界=植物界
+亚属=菜豆属 Phaseolus L.
+种=绿豆 P. radiatus L.
+目=蔷薇目 Rosales
+族=菜豆族 Trib. Phaseoleae
+英文名=Green bean
+中文学名=绿豆
+科=豆科 Fabaceae
+纲=双子叶植物纲 Magnoliopsida
+亚纲=原始花被亚纲 Archichlamydeae
+分布区域=世界各热带,亚热带地区广泛栽培
+拼音=lǜ dòu
+亚目=蔷薇亚目 Rosineae
+亚科=蝶形花亚科 Papilionoideae
+属=豇豆属 Vigna
+药用价值=清凉解毒,利尿明目
+
+TAG:
+食品
+植物
+双子叶植物纲
+生活
+
+INFO:
+绿豆（Vigna radiata (Linn.) Wilczek.） ，属于豆科。别名青小豆（因其颜色青绿而得名）、菉豆、植豆等，在中国已有两千余年的栽培史。原产地在印度、缅甸地区。现在东亚各国普遍种植，非洲、欧洲、美国也有少量种植，中国、缅甸等国是绿豆主要的出口国。种子和茎被广泛食用。绿豆清热之功在皮，解毒之功在肉。绿豆汤是家庭常备夏季清暑饮料，清暑开胃，老少皆宜。传统绿豆制品有绿豆糕、绿豆酒、绿豆饼、绿豆沙、绿豆粉皮等。其实绿豆还有一种的颜色，黄色的，这种品质很稀少，目前只在江西鄱阳看到，外表黄色，豆皮比绿色更薄，营养更佳！
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

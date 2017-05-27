@@ -1,0 +1,31 @@
+AVP:
+中文学名=侧柏
+科=柏科
+纲=松杉纲
+命名者及年代=Linn., 1949
+二名法=Platycladus orientalis
+拉丁学名=Platycladus orientalis (L.) Franco
+别名=黄柏（植物别称）,香柏,扁柏,扁桧,香树,香柯树
+门=种子植物门
+界=植物界
+种=侧柏
+目=松杉目
+属=侧柏属
+
+TAG:
+自然学科
+植物
+观赏植物
+自然
+中药
+
+INFO:
+侧柏（学名：Platycladus orientalis （L.) Franco）属常绿乔木。树冠广卵形，小枝扁平，排列成1个平面。叶小，鳞片状，紧贴小枝上，呈交叉对生排列，叶背中部具腺槽。雌雄同株，花单性。雄球花黄色，由交互对生的小孢子叶组成，每个小孢子叶生有3个花粉囊，珠鳞和苞鳞完全愈合。球果当年成熟，种鳞木质化，开裂，种子不具翅或有棱脊。
+侧柏为中国特产，除青海、新疆外，全国均有分布。寿命很长，常有百年和数百年以上的古树。已被选为北京市的市树。
+侧柏耐旱，常为阳坡造林树种，也是常见的庭园绿化树种，木材可供建筑和家具等用材，叶和枝入药，可收敛止血、利尿健胃、解毒散瘀；种子有安神、滋补强壮之效。
+
+TYPES:
+http://dbpedia.org/ontology/Conifer
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

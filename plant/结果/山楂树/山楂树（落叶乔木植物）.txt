@@ -1,0 +1,23 @@
+AVP:
+中文学名=山楂树
+科=蔷薇科
+分布区域=山东,河南,山西,河北,辽宁
+别名=红果,绿梨
+拉丁学名= Crataegus pinnatifida
+学名=Fructus Crataegi Pinnatifidae
+界=植物界
+种=落叶乔木
+属=山楂属
+英文名=Hawthorn Fruit
+
+TAG:
+木本植物
+植物
+
+INFO:
+山楂树为落叶乔木，叶子近于卵形，有羽状深裂，花白色。果实球形，深红色，有小斑点，味酸，可以吃，也可入药。其本适应性强，即是在山岭薄地，生长发育也比其他果树为好。因一本讲述知青爱情的小说《山楂树之恋》的畅销，加上张艺谋将此小说拍成电影搬上银幕，山楂树成了纯洁爱情的代名词。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

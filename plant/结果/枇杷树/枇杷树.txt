@@ -1,0 +1,29 @@
+AVP:
+二名法=Eribotrya japonica
+拉丁学名=Eriobotrya japonica (Thunb.) Lindl
+别名=芦橘,又名金丸、芦枝
+门=被子植物门
+界=植物界
+种=枇杷
+目=蔷薇目(Rosales)
+中文学名=枇杷树
+科=蔷薇科
+纲=双子叶植物纲,又称木兰纲
+亚纲=蔷薇亚纲
+分布区域=起源于中国西南地区。日本,澳大利亚亦有少量栽培
+亚目=蔷薇亚目
+亚科=苹果亚科
+属=枇杷属
+
+TAG:
+植物
+木本植物
+乔木
+
+INFO:
+枇杷树，别名：芦橘、金丸、芦枝，拉丁文名：Eriobotrya japonica (Thunb.) Lindl.蔷薇科、枇杷属常绿小乔木，小枝粗壮，黄褐色，密生锈色或灰棕色绒毛。叶片革质，披针形、倒披针形、倒卵形或椭圆长圆形；花期10-12月，果期5-6月。原产亚热带，各地广栽培。喜阳，耐旱对土壤要求不高，常用于园林观赏；植物果实枇杷，具有治肺燥咳嗽功效。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

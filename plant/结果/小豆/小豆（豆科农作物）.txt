@@ -1,0 +1,17 @@
+AVP:
+中文学名=小豆
+门=被子植物
+别名=红小豆,赤豆,赤小豆,五色豆
+拉丁学名=Vigna angularis
+界=植物界
+
+TAG:
+植物
+
+INFO:
+小豆(Vigna angularis)，古名荅，小菽，赤菽等；别名红小豆，赤豆，赤小豆，五色豆，米豆，饭豆。英文名Adzuki bean。染色体数2n=22。小豆起源于中国，栽培2000多年。全世界小豆以亚洲面积最大，非洲、欧洲及美洲也有生产。全世界共约24个国家种植小豆，除中国生产面积最大外，日本、朝鲜、韩国、澳大利亚、泰国、印度、缅甸、美国、加拿大、巴西、哥伦比亚，新西兰及原苏联的远东地区，扎伊尔和安哥拉等国均有一定生产面积。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

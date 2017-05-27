@@ -1,0 +1,24 @@
+AVP:
+出版时间=2009-08-01
+出版社=花城出版社
+作者=张贤亮
+ISBN=9787536057210
+定价=18.00 元
+开本=16开
+书名=绿化树
+
+TAG:
+书籍
+小说
+文学作品
+文学书籍
+小说作品
+
+INFO:
+《绿化树》是张贤亮1984年发表的中篇小说，获中国作家协会第3 届全国优秀中篇小说奖及1984年《中篇小说选刊》优秀中篇小说奖。作者声称《绿化树》是作者拟写的《唯物论者启示录》中的一部，小说写一位出身于剥削阶级家庭的知识分子章永麟，被打成右派，备受迫害。但他出于生存的本能，想方设法填饱肚子。
+
+TYPES:
+http://dbpedia.org/ontology/Book
+http://dbpedia.org/ontology/Novel
+http://dbpedia.org/ontology/WrittenWork
+http://dbpedia.org/ontology/Work

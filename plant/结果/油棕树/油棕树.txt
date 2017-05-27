@@ -1,0 +1,24 @@
+AVP:
+中文学名=油棕
+科=棕榈科
+纲=单子叶植物纲
+分布区域=原产非洲热带地区,我国台湾、海南及云南热带地区有栽培
+拉丁学名=Elaeis guineensis
+别名=油椰子
+门=被子植物门
+界=植物界
+种=油棕
+亚科=槟榔亚科
+属=油棕属
+族=椰子族
+
+TAG:
+植物
+
+INFO:
+油棕属棕榈科，常绿直立乔木，是世界上单位面积产量最高的一种木本油料植物。一般亩产棕油 200千克左右 ，比花生产油量高五六倍，是大豆产油量的近10倍，因此有 "世界油王"之称。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

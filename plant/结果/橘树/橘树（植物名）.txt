@@ -1,0 +1,20 @@
+AVP:
+科=芸香科
+中文名=橘树
+纲=双子叶植物纲
+外文名=Citrus reticulata
+门=被子植物门
+别名=金柑
+界=植物界
+属=金橘属
+
+TAG:
+植物
+
+INFO:
+橘树，常绿乔木，初夏开花，白色。在深秋的时候结果。果实叫橘子，味甜酸，可以吃，果皮可入药。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

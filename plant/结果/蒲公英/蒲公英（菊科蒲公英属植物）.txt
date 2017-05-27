@@ -1,0 +1,31 @@
+AVP:
+二名法=Taraxacum mongolicum
+门=被子植物门
+别名=华花郎,蒲公草,食用蒲公英,尿床草,西洋蒲公英,婆婆丁
+拉丁学名=Taraxacum mongolicum Hand.-Mazz.
+界=植物界
+种=蒲公英（菊科蒲公英属植物）
+目=桔梗目
+族=菊苣族
+中文学名=蒲公英
+科=菊科
+亚纲=合瓣花亚纲
+纲=双子叶植物纲
+分布区域=中国,朝鲜,蒙古,俄罗斯
+属=蒲公英属
+亚科=舌状花亚科
+
+TAG:
+植物
+生物
+花卉
+草本植物
+
+INFO:
+蒲公英（拉丁学名：Taraxacum mongolicum Hand.-Mazz.）菊科，蒲公英属多年生草本植物。根圆锥状，表面棕褐色，皱缩，叶边缘有时具波状齿或羽状深裂，基部渐狭成叶柄，叶柄及主脉常带红紫色，花葶上部紫红色，密被蛛丝状白色长柔毛；头状花序，总苞钟状，瘦果暗褐色，长冠毛白色，花果期4～10月
+蒲公英别名黄花地丁、婆婆丁、华花郎等。菊科多年生草本植物。头状花序，种子上有白色冠毛结成的绒球，花开后随风飘到新的地方孕育新生命。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

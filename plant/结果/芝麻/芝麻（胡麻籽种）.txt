@@ -1,0 +1,30 @@
+AVP:
+门=被子植物门  Angiospermae
+别名=胡麻（名医别录），脂麻（本草衍义），油麻（食疗本草）
+拉丁学名=Sesamum indicum Linn.
+界=植物界
+种=胡麻
+目=唇形目(管状花目）Tubiflorae
+英文名=sesame
+中文学名=芝麻
+科=胡麻科 Pedaliaceae
+亚纲=合瓣花亚纲 Sympetalae
+纲=双子叶植物纲 Dicotyledoneae
+分布区域=热带及部分温带地区
+属=胡麻属 Sesamum L.
+
+TAG:
+农作物
+植物
+生物学
+自然学科
+食品
+
+INFO:
+芝麻，又名脂麻、胡麻（学名：Sesamum indicum），是胡麻的籽种，一年生直立草本植物，高60-150厘米。它遍布世界上的热带地区以及部分温带地区。芝麻是中国主要油料作物之一，具有较高的应用价值。它的种子含油量高达55%。中国自古就有许多用芝麻和芝麻油制作的各色食品和美味佳肴，一直著称于世。
+芝麻，被称为八股之冠。芝麻是一种油料作物，榨取的油称为麻油、胡麻油、香油，特点是气味醇香，生用热用皆可。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

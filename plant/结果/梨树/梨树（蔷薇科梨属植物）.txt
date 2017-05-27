@@ -1,0 +1,28 @@
+AVP:
+英文=pear tree
+门=被子植物门
+拉丁学名=pirus, i, f.
+界=植物界
+种=梨树
+目=蔷薇目
+中文学名=梨树
+科=蔷薇科
+亚纲=蔷薇亚纲
+纲=双子叶植物纲
+分布区域=分布以长江流域以南地区及淮河流域一带栽培较多,日本
+亚目=蔷薇亚目
+属=梨属
+亚科=苹果亚科
+
+TAG:
+乔木
+木本植物
+植物
+
+INFO:
+梨树是蔷薇科梨属，多年生落叶果树，乔木。在全球都有广泛的分布。同时梨树也被用作地名，有梨树县、梨树镇等。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

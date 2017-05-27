@@ -1,0 +1,22 @@
+AVP:
+中文学名=榴莲
+科=木棉科
+纲=双子叶植物纲
+亚纲=原始花被亚纲
+分布区域=广东海南栽培。原产印度尼西亚。
+拉丁学名=Durio zibethinus Murr.
+门=被子植物门
+界=植物界
+目=锦葵目
+属=榴莲属
+
+TAG:
+植物
+
+INFO:
+常绿乔木。叶子长椭圆形，表面光滑，背面生鳞片。果实球形，表面有很多硬刺，果肉味美，为热带著名果品之一。原产马来西亚，我国广东﹑海南也有。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

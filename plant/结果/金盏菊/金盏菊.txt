@@ -1,0 +1,30 @@
+AVP:
+细胞分裂方式=有丝分裂
+拉丁学名=Calendula officinalis
+别名=金盏花,黄金盏,长生菊,醒酒花,常春花,金盏
+门=被子植物门(Angiospermae)
+界=植物界
+种=金盏菊
+目=菊目(Asterales)
+英文名=pot marigold
+中文学名=金盏菊
+科=菊科(学名:Asteraceae)
+纲=双子叶植物纲(Dicotyledoneae)
+亚纲=菊亚纲(Asteridae)
+属=金盏菊属Calendula
+
+TAG:
+植物
+观赏植物
+自然
+农作物
+花卉
+
+INFO:
+金盏花(Calendula officinalis)又名金盏菊，古代西方作药用或染料，也作化妆品或食用，叶和花瓣可食用，作菜肴的装饰。原产于南欧。具有药用价值消炎抗菌 清热降火 治青春痘，痤疮。
+菊科金盏菊属植物。一年生或越年生草本植物，喜光照，对土壤要求不严，可在干旱、疏松肥沃的碱性土中良好生长，耐瘠薄，常用于花坛摆花。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

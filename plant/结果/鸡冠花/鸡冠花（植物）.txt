@@ -1,0 +1,30 @@
+AVP:
+门= 被子植物门
+别名=鸡髻花,老来红,芦花鸡冠,笔鸡冠,小头鸡冠,凤尾鸡冠
+拉丁学名=Celosia cristata L.
+界=植物界
+种=鸡冠花种C.
+目=中央种子目
+英文名=Cockscomb Flower,COCKSCOMB
+中文学名=鸡冠花
+科=苋科
+纲= 双子叶植物纲
+分布区域=原产亚洲 热带,中国南北各地区
+属=青葙属
+域=真核域
+
+TAG:
+可入药植物
+园艺花卉植物
+自然
+花卉
+苋科
+
+INFO:
+鸡冠花（学名：Celosia cristata L.），中文别名：鸡髻花、老来红、芦花鸡冠、笔鸡冠、小头鸡冠、凤尾鸡冠、大鸡公花、鸡角根、红鸡冠。一年草本植物，夏秋季开花，花多为红色，呈鸡冠状，故称鸡冠花。原产非洲，美洲热带和印度。喜阳光充足、湿热，不耐霜冻。不耐瘠薄，喜疏松肥沃和排水良好的土壤。世界各地广为栽培，普通庭园植物。另外具有很高的药用价值。
+（概述图片参考资料来源： ）
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

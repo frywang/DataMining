@@ -1,0 +1,31 @@
+AVP:
+二名法=Matthiola incana
+门=被子植物门
+别名=草桂花,四桃克,草紫罗兰
+拉丁学名=Matthiola incana (L.) R. Br.
+界=植物界
+目=罂粟目
+中文学名=紫罗兰
+科=十字花科
+亚纲=原始花被亚纲
+纲=双子叶植物纲
+分布区域=原产欧洲南部
+亚目=白花菜亚目
+属=紫罗兰属
+
+TAG:
+植物
+生物
+自然
+花卉
+草本植物
+
+INFO:
+紫罗兰，拉丁文学名：（Matthiola incana (L.) R. Br.）十字花科、紫罗兰属二年生或多年生草本。
+全株密被灰白色具柄的分枝柔毛。茎直立，多分枝，基部稍木质化。叶片长圆形至倒披针形或匙形。
+原产地中海沿岸。中国南部地区广泛栽培，欧洲名花之一。中国大城市中常有物种，可以栽于庭园或温室中，供观赏。此花与三色堇相似，易混淆。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

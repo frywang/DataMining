@@ -1,0 +1,27 @@
+AVP:
+中文学名=烟草
+科=茄科
+纲=双子叶植物纲
+亚纲=合瓣花亚纲
+拉丁学名=Nicotiana tabacum L.
+别名=烟叶
+门=被子植物门
+界=植物界
+目=管状花目
+属=烟草属
+族=夜香树族
+
+TAG:
+食品
+植物
+生物学
+自然
+种子植物门
+
+INFO:
+烟草属管状花目，茄科一年生或有限多年生草本植物，基部稍木质化。花序顶生，圆锥状，多花；蒴果卵状或矩圆状，长约等于宿存萼。夏秋季开花结果。主要分布于南美洲、南亚、中国。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

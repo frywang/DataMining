@@ -1,0 +1,34 @@
+AVP:
+文竹种类=细叶文竹,矮文竹,大文竹
+二名法=Asparagus setaceus
+拉丁学名=Asparagus setaceus
+别名=云片竹,山草,鸡绒芝
+门=被子植物门（Angiosperms）
+界=植物界
+种=文竹
+目=天门冬目（Asparagales）
+族=天门冬族（Asparageae）
+英文名=Asparagus fern
+中文学名=文竹
+科=天门冬科（Asparagaceae）
+纲=单子叶植物（Monocotyledons）
+分布区域=中国中部,西北,长江流域及南方各地
+拼音=wén zhú
+属=天门冬属（Asparagus L）
+
+TAG:
+药品
+植物
+雕塑
+自然
+生物
+
+INFO:
+文竹，又称云片松、刺天冬、云竹，拉丁文名：Asparagus setaceus，攀援植物，高可达几米。文竹根部稍肉质，茎柔软丛生，细长。茎的分枝极多，近平滑。叶状枝，刚毛状，略具三棱；鳞片状叶基部稍具刺状距或距不明显。花白色，有短梗，花期9~10月。浆果熟时呈现紫黑色，有1~3颗种子。 果期冬季至翌年春季。
+原产于南非，分布于中国中部、西北、长江流域及南方各地。其性喜温暖湿润和半阴通风的环境，冬季不耐严寒，不耐干旱，夏季忌阳光直射。 
+文竹是具有极高的观赏植物，可放置客厅、书房，净化空气的同时也增添了书香气息。以根入药，可治急性气管炎，具有润肺止咳的功能。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

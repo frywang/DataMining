@@ -1,0 +1,22 @@
+AVP:
+中文名=苹果树
+外文名称=The apple tree
+歌曲语言=汉语
+歌曲原唱=洪卓立
+
+TAG:
+书籍
+单曲
+小说
+文学家
+音乐作品
+
+INFO:
+洪卓立最新派台歌曲《苹果树》
+
+TYPES:
+http://dbpedia.org/ontology/Book
+http://dbpedia.org/ontology/MusicalWork
+http://dbpedia.org/ontology/WrittenWork
+http://dbpedia.org/ontology/Work
+http://dbpedia.org/ontology/Single

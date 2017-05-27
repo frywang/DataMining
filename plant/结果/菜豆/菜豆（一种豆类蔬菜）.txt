@@ -1,0 +1,25 @@
+AVP:
+二名法=Phaseolus vulgaris
+门=被子植物门 Magnoliophyta
+别名=菜豆（一种豆类蔬菜）,白肾豆,架豆,刀豆,扁豆,玉豆,去豆
+拉丁学名=Phaseolus vulgaris Linn.
+界=植物界
+种=菜豆 P. vulgaris
+目=蔷薇目
+族=菜豆族 Phaseoleae
+中文学名=芸豆
+科=豆科 Fabaceae
+纲=双子叶植物纲 Magnoliopsida
+属=菜豆属 Phaseolus
+亚科=蝶型花亚科 Faboideae
+
+TAG:
+植物
+
+INFO:
+菜豆（Phaseolus vulgaris Linn.），也称芸豆、二季豆或四季豆，豆科菜豆属植物。一年生缠绕或近直立草本。原产美洲的墨西哥和阿根廷，中国在16世纪末开始引种栽培。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

@@ -1,0 +1,20 @@
+AVP:
+中文学名=葛
+科=豆
+二名法=曷(hé)
+别名=鹿藿,黄斤,鸡齐根
+拉丁学名=Pueraria lobata
+界=植物界
+属=葛
+
+TAG:
+中药
+字词
+
+INFO:
+gé（形声。从艸，曷（hé）声。本义：一种植物，纤维可以织布）植物名。豆科多年生草本植物(Puerarialobata),茎长二三丈，缠绕他物上，花紫红色。茎可编篮做绳，纤维可织葛布。根可提制淀粉，又供药用〖lobedkudzuvine〗。如：葛屦（葛制的鞋子。贫贱人家所穿用。一说夏天所穿用）;葛屦履霜（冬天穿夏季的鞋子。比喻非常俭啬）;葛面（葛粉）
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

@@ -1,0 +1,28 @@
+AVP:
+中文学名=枫杨
+科=胡桃科
+纲=双子叶植物纲
+亚纲=原始花被亚纲
+二名法=Pterocarya stenoptera
+分布区域=中国多地,黄河流域为主
+拉丁学名=Pterocarya stenoptera C. DC.
+别名=枰柳,麻柳,枰伦树,水麻柳,蜈蚣柳
+门=被子植物门
+界=植物界
+目=胡桃目
+属=枫杨属
+
+TAG:
+植物
+种子植物门
+被子植物亚门
+中药
+双子叶植物纲
+
+INFO:
+枫杨（Pterocarya stenoptera C. DC），别名：白杨、大叶柳、大叶头杨树等。落叶乔木，高达30米，胸径达1米；幼树树皮平滑，浅灰色，老时则深纵裂；小枝灰色至暗褐色，具灰黄色皮孔；芽具柄，密被锈褐色盾状着生的腺体，叶多为偶数或稀奇数羽状复叶。枫杨喜光，略耐侧荫，幼树耐荫，耐寒能力不强，主要分布于黄河流域以南。枫杨树冠宽广，枝叶茂密，生长迅速，是种常见的庭荫树和防护树种。而且树皮还有祛风止痛，杀虫，敛疮等功效。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

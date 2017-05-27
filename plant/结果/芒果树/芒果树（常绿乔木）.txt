@@ -1,0 +1,27 @@
+AVP:
+门=被子植物门
+别名=檬果,檨仔,庵罗果
+物语=专一
+原产地=印度,马来西亚,缅甸
+学名=Mangifera indica
+英名=Mango Tree
+界=植物界
+种=芒果种
+目=无患子目
+中文学名=芒果树
+科=漆树科
+纲=双子叶植物纲
+属=芒果属
+
+TAG:
+乔木
+木本植物
+植物
+
+INFO:
+芒果树，学名：Mangifera indica，漆树科，别称檬果檨仔、庵罗果 ，原产地为印度、马来西亚、缅甸 ，是常绿乔木。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

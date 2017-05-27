@@ -1,0 +1,28 @@
+AVP:
+中文学名=雪松
+科=松科
+纲=松柏纲
+二名法=Cedrus deodara
+门=裸子植物门
+别名=香柏,宝塔松,番柏,喜马拉雅山雪松
+拉丁学名=Cedrus deodara (Roxb.) G. Don
+界=植物界
+种=雪松
+属=雪松属
+目=松柏目
+
+TAG:
+乔木
+松柏纲
+松树
+植物
+雪松科
+
+INFO:
+雪松（学名：Cedrus deodara (Roxb.) G. Don）是松科雪松属植物。常绿乔木，树冠尖塔形，大枝平展，小枝略下垂。叶针形，长8－60厘米，质硬，灰绿色或银灰色，在长枝上散生，短枝上簇生。10-11月开花。球果翌年成熟，椭圆状卵形，熟时赤褐色。产于亚洲西部、喜马拉雅山西部和非洲，地中海沿岸，中国只有一种喜玛拉雅雪松，分布于西藏南部及印度和阿富汗。分布于阿富汗至印度，海拔1300-3300米地带，中国多地有栽培。
+
+TYPES:
+http://dbpedia.org/ontology/Conifer
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

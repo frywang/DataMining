@@ -1,0 +1,22 @@
+AVP:
+中文学名=黑麦
+科=禾本科
+分布区域=北方山区或在较寒冷地区
+拉丁学名=Secale cereale
+界=植物界
+英文名=Secale cereale Lrye
+
+TAG:
+植物
+种子植物门
+科技
+药品
+被子植物亚门
+
+INFO:
+黑麦能制成黑麦面粉，富有营养，含淀粉、脂肪和蛋白质、维生素B和磷、钾等。因蛋白质弹性较差常与小麦掺合做成黑面包，亦可用来酿油、酿酒、饲养家畜。秆还作编帽和造纸之用。但黑麦子房较易感染麦角菌，形成有毒的麦角。黑麦叶量大，茎秆柔软，营养丰富，适口性好，是牛、羊、马的优质饲草。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

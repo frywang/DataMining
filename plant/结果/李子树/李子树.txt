@@ -1,0 +1,28 @@
+AVP:
+亚门=被子植物亚门
+二名法=Prunus salicina Lindl.
+拉丁学名=Prunus cerasifera Ehrh.
+别名=樱桃李
+门=被子植物门
+界=植物界
+目=蔷薇目
+英文名=Redleaf Cherry Plum
+中文学名=李子树
+科=蔷薇科
+纲=双子叶植物纲
+亚纲=蔷薇亚纲
+分布区域=原产中亚及中国新疆天山一带,在我国主要分布于南方地区
+亚科=李亚科
+属=李属
+
+TAG:
+植物
+建筑学
+
+INFO:
+李子树，别名樱桃李，常见果树，落叶小乔木，高度可达8米；在江苏大丰红叶李基地颜色通常红些，因为气候不同。干皮紫灰色，小枝淡红褐色，均光滑无毛。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

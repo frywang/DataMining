@@ -1,0 +1,30 @@
+AVP:
+拉丁学名=Fallopia multiflora (Thunb.) Harald
+别名=多花蓼,紫乌藤,九真藤
+门=被子植物门
+界=植物界
+种=何首乌
+目=蓼目
+族=蓼族
+中文学名=何首乌
+科=蓼科
+纲=双子叶植物纲
+亚纲=原始花被亚纲
+分布区域=陕西南部,甘肃南部,华东
+亚科=蓼亚科
+属=何首乌属
+
+TAG:
+药品
+植物
+医生
+中医
+种子植物门
+
+INFO:
+何首乌（学名：Fallopia multiflora (Thunb.) Harald.），又名多花蓼、紫乌藤、夜交藤等。是蓼科蓼族何首乌属多年生缠绕藤本植物，块根肥厚，长椭圆形，黑褐色。生山谷灌丛、山坡林下、沟边石隙。产陕西南部、甘肃南部、华东、华中、华南、四川、云南及贵州。其块根入药，可安神、养血、活络，解毒（截疟）、消痈；制首乌可补益精血、乌须发、强筋骨、补肝肾，是常见贵细中药材。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

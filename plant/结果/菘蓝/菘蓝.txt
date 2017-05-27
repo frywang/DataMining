@@ -1,0 +1,31 @@
+AVP:
+二名法=Isatis indigotica
+拉丁学名=Isatis indigotica Fortune
+别名=茶蓝,板蓝根,大青叶
+门=被子植物门
+界=植物界
+种=菘蓝
+目=罂粟目
+族=独行菜族
+中文学名=菘蓝
+科=十字花科
+纲=双子叶植物纲
+亚纲=原始花被亚纲
+分布区域=主产新疆,内蒙古,陕西,甘肃,河北,山东,江苏,浙江,安徽
+亚目=白花菜亚目
+属=菘蓝属
+
+TAG:
+植物
+医生
+中医
+种子植物门
+被子植物亚门
+
+INFO:
+菘蓝（学名：Isatis indigotica Fortune）又名茶蓝、板蓝根等。茎直立，绿色，顶部多分枝，植株光滑无毛，带白粉霜。全国各地均有栽培。有清热解毒、凉血消斑、利咽止痛的功效。叶还可提取蓝色染料；种子榨油，供工业用。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

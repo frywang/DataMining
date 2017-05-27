@@ -1,0 +1,20 @@
+AVP:
+中文学名=香蕉树
+科=禾本科
+纲=双子叶植物纲
+亚纲=木兰亚纲(Magnoliidae)
+分布区域=世界分布,我国西南地区分布
+门=被子植物门
+界=植物界
+
+TAG:
+植物
+自然
+
+INFO:
+香蕉树，芭蕉科植物 原产于亚洲东南部热带、亚热带地区。 我国是世界上栽培香蕉的古老国家之一，目前国外主栽的香蕉品种大多由我国传去。世界各地广为分布，我国主要分布在西南地区。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

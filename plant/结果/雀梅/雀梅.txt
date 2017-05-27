@@ -1,0 +1,28 @@
+AVP:
+中文学名=雀梅
+科=鼠李科 Rhamnaceae
+纲=双子叶植物纲 Dicotyledoneae
+亚纲=原始花被亚纲 Archichlamydeae
+拉丁学名=Sageretia theezans
+别名=对节刺、雀梅藤,刺冻绿,碎米子,对角刺
+门=被子植物门 Angiospermae
+界=植物界
+目=鼠李目 Rhamnales
+属=雀梅藤属 Sageretia
+族=鼠李族 Trib. Rhamneae
+
+TAG:
+植物
+观赏植物
+自然
+种子植物门
+被子植物亚门
+
+INFO:
+雀梅  自古以来就是制作盆景的重要材料，素有盆景“七贤”之一的美称。雀梅在园林中可用作绿篱、垂直绿化材料，也适合配置于山石中。雀梅属鼠李科，根干自然奇特，树姿苍劲古雅，是中国树桩盆景主要树种之一，为岭南盆景中的五大名树之一，也是中国入世后出口美国的盆景植物之一。雀梅果可食、味酸甜，故名酸梅果，嫩叶可代茶。雀梅原产我国长江流域及东南沿海各省，日本和印度也有分布，为亚热带适生树种。
+它根干自然奇特，树姿苍劲古雅，是中国树桩盆景主要树种之一，为岭南盆景中的五大名树之一，也是中国入世后出口美国的盆景植物之一。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

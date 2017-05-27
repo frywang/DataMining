@@ -1,0 +1,27 @@
+AVP:
+功效=养阴清热,滋补精血
+二名法=Lilium brownii
+门=被子植物门
+别名=强瞿,番韭,山丹,倒仙
+拉丁学名=Lilium brownii var. viridulum
+界=植物界
+种=野百合
+目=百合目
+族=百合族
+中文学名=百合
+科=百合科
+纲=单子叶植物纲
+分布区域=亚洲东部,欧洲,北美洲,北半球
+属=百合属
+
+TAG:
+植物
+花卉
+
+INFO:
+百合，学名（Lilium brownii var. viridulum Baker）又名强蜀、番韭、山丹、倒仙、重迈、中庭、摩罗、重箱、中逢花、百合蒜、大师傅蒜、蒜脑薯、夜合花等，是百合科百合属（学名：Lilium）多年生草本球根植物，原产于中国，主要分布在亚洲东部、欧洲、北美洲等北半球温带地区，全球已发现有至少120个品种，其中55种产于中国。近年更有不少经过人工杂交而产生的新品种，如亚洲百合、香水百合、火百合等。鳞茎含丰富淀粉，可食，亦作药用。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

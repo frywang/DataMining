@@ -1,0 +1,33 @@
+AVP:
+拉丁学名=Salix babylonica L.
+别名=水柳,垂杨柳,清明柳
+门=被子植物门
+原产地=中国大陆南方
+界=植物界
+种=柳屬植物包括有差不多400個品種[1]的落葉喬木及灌木
+目=杨柳目
+有无毒性=有
+中文学名=柳树[liǔ shù]
+科=杨柳科（Salicaceae)
+纲=双子叶植物纲
+亚纲=五桠果亚纲
+分布区域=干旱地区  多雨地区均有生长
+属=柳属 （Salix）
+
+TAG:
+植物
+自然
+树木
+乔木类植物
+绿色植物
+
+INFO:
+柳树是一类植物的总称：旱柳  Salix matsudana Koidz.、腺柳  Salix chaenomeloides Kimura、垂柳 Salix babylonica Linn.、枫杨 Pterocarya stenoptera C. DC.
+柳树种类多，容易 杂交。杂种生长势和适应性强，易无性繁殖，可从天然或人工杂种群体内选择，通过无性繁殖，获得优良无性系品种；另外，也可用植物组织培养的方法快速获取大量优质树苗。以园林观赏为主的育种，应重点改良其枝叶及树形，提高抗污染、耐修剪整形的能力。
+用于园林观赏，小区，园林，学校，工厂，山坡、庭院、路边、建筑物前。盛开时，树枝展向柳树四方，使庭院青条片片，具有很高的观赏价值；实为美化庭院之理想树种。
+柳树也是人们乘凉的工具之一，尤其是在夏天的午后，人们三三两两的去找乘凉的好去处，这时候硕大的柳树荫下是人们的独一无二选择。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

@@ -1,0 +1,28 @@
+AVP:
+中文学名=松树
+科=松科
+纲=松柏纲
+亚门=裸子植物亚门
+门=种子植物门
+拉丁学名=Pinus
+药用=全身可入药
+界=植物界
+属=松属
+目=松柏目
+英文名=pine tree
+类别=林木类 针叶树类
+
+TAG:
+木本植物
+植物
+生物学
+自然
+
+INFO:
+松树，绝大多数是高大乔木，高20～50米，最高可达75米（美国的糖松P.lambertiana）。极少数为灌木状，如偃松（P.pumila）和地盘松（P.yunnanensis） 。松树为轮状分枝，节间长，小枝比较细弱平直或略向下弯曲，针叶细长成束。其树冠看起来篷松不紧凑，“松”字正是其树冠特征的形象描述。所以，“松”就是树冠篷松的一类树。松树坚固，寿命十分长。
+
+TYPES:
+http://dbpedia.org/ontology/Conifer
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

@@ -1,0 +1,28 @@
+AVP:
+门=被子植物门
+别名=蝶兰,台湾蝴蝶兰
+拉丁学名=Phalaenopsis aphrodite Rchb. F.
+花语=红色蝴蝶兰：仕途顺畅 幸福美满
+界=植物界
+种=蝴蝶兰
+目=微子目
+英文名=Phalaenopsis
+族=万代兰族
+中文学名=蝴蝶兰
+科=兰科
+纲=单子叶植物纲
+分布区域=欧亚,北非,北美和中美和中国台湾
+属=蝴蝶兰属
+亚科=兰亚科
+
+TAG:
+植物
+花卉
+
+INFO:
+蝴蝶兰（Phalaenopsis aphrodite Rchb. F.）为兰科蝴蝶兰属，原产于亚热带雨林地区，为附生性兰花。蝴蝶兰白色粗大的气根露在叶片周围，除了具有吸收空气中养分的作用外，还有生长和光合作用。新春时节，蝴蝶兰植株从叶腋中抽出长长的花梗，并且开出形如蝴蝶飞舞般的花朵，深受花迷们的青睐，素有“洋兰王后”之称。分布在泰国、菲律宾、马来西亚、印度尼西亚，及中国台湾。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

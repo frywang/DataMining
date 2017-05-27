@@ -1,0 +1,27 @@
+AVP:
+拉丁学名=Dracaena sanderiana
+别名=万寿竹,距花万寿竹,开运竹,富贵塔,丝带树,山德氏龙血树
+门=被子植物门
+界=植物界
+种=富贵竹
+目=百合目Liliiflorae
+中文学名=富贵竹
+科=百合科Liliaceae
+纲=单子叶植物纲
+分布区域=分布于在我国西南一带。
+代表品种=金边富贵竹,银边富贵竹
+亚目=百合亚目 Liliineae
+属=龙血树属 Dracaena
+
+TAG:
+植物
+生物
+
+INFO:
+富贵竹，拉丁学名：Dracaena sanderiana。原称：辛氏龙树，别名竹蕉、万年竹，万寿竹、距花万寿竹、开运竹、富贵塔、竹塔、塔竹。放在文昌位又叫文昌竹（通常放4支）。属百合科万寿竹属。原产于非洲西部的喀麦隆。为多年生常绿草本植物，主要作盆栽观赏植物，观赏价值高，并象征着"大吉大利"，名字也是因此而出的。
+1970年后，被大量引进中国作观赏之用，现在为中国常见的观赏植物，也颇受国际市场欢迎。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

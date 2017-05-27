@@ -1,0 +1,18 @@
+AVP:
+中文学名=杨桃树
+科=酢浆草科
+拉丁学名=Averrhoa carambola
+别名=洋桃,五敛子
+界=植物界
+属=洋桃属
+
+TAG:
+植物
+
+INFO:
+杨桃树（学名：Averrhoa carambola）又称洋桃、五敛子，是酢浆草科洋桃属的常绿灌木或小乔木。原产于热带亚洲、盛产于中国大陆南部和台湾、从热带到亚热带的菲律宾等。闽人称为杨桃，英文称它为“星星果”（star fruit）。其果实大小约直径6-8厘米，可作食用，以水果或当料理的食材来吃，如沙拉、西式咸菜、蜜饯等，味道像梨。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

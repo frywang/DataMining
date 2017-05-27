@@ -1,0 +1,31 @@
+AVP:
+用途=为食用蔬菜,营养价值很高
+颜色=黑色
+品种=有青仁黑豆,黄仁黑豆,恒春黑豆
+门=被子植物门
+别名=黑大豆,橹豆,稽豆,枝仔豆,马料豆,橹豆,乌豆,枝仔豆,黑大豆,稽豆,马料豆
+界=植物界
+目=蔷薇目
+英文名=Black soya bean
+中文学名=黑豆
+科=豆科
+纲=双子叶植物纲
+拼音=Hei Dou
+花期=6-8月
+亚科=蝶形花亚科
+
+TAG:
+中药
+植物
+食品
+
+INFO:
+黑豆为豆科植物大豆(学名：Glycinemax(L.)merr)的黑色种子。又名橹豆、黑大豆等，味甘性平。黑豆具有高蛋白、低热量的特性，外皮黑，里面黄色或绿色。
+黑豆性喜温暖，耐高温，生育适温18～30度，播种法繁殖以颗粒大而饱满、色泽乌黑发亮者为佳。
+根据中国科学家的一项研究发现，黑豆皮提取物能够提高机体对铁元素的吸收，带皮食用黑豆能够改善贫血症状。
+
+TYPES:
+http://dbpedia.org/ontology/Food
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

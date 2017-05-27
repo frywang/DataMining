@@ -1,0 +1,27 @@
+AVP:
+二名法=Limonium sinuatum
+门=被子植物门
+别名=勿忘草（紫草科多年生草本）,星辰花,匙叶草,星辰花,匙叶草,勿忘草
+拉丁学名=Myosotis sylvatica,Limonium sinuatum
+界=植物界
+种=勿忘我
+目=唇形目,唇形目
+英文名=forget me not
+中文学名=勿忘我
+科=紫草科,紫草科
+纲=双子叶植物纲,双子叶植物纲
+分布区域=亚欧大陆温带,伊朗,俄罗斯,巴基斯坦,印度,中国大陆大部
+属=勿忘草属,勿忘草属 Myosotis.L
+
+TAG:
+植物
+自然
+花卉
+
+INFO:
+勿忘我（学名：Myosotis sylvatica），又名勿忘草、星辰花等，是紫草科勿忘草属（Myosotis L.）的植物，为阿拉斯加州州花。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

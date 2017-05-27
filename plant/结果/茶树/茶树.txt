@@ -1,0 +1,27 @@
+AVP:
+中文学名=茶树
+科=山茶科 Theaceae
+纲=双子叶植物纲Magnoliopsida
+分布区域=印度阿萨姆,中国,柬埔寨
+拉丁学名=Camellia sinensis
+门=被子植物门 Magnoliophyta
+界=植物界
+种=茶树 C. sinensis
+目=杜鹃花目 Ericales
+属=山茶属Camellia
+域=真核域 Eukarya
+英文名=tea plant
+
+TAG:
+植物
+自然
+词语
+木本植物
+
+INFO:
+茶树，原名：茶，拉丁文名：Camellia sinensis (L.) O. Ktze.，山茶科、山茶属灌木或小乔木，嫩枝无毛。叶革质，长圆形或椭圆形。 茶树的叶子可制茶（有别于油茶树），种子可以榨油，茶树材质细密，其木可用于雕刻。分布主要集中在南纬16度至北纬30度之间，茶树喜欢温暖湿润气候，平均气温10℃以上时芽开始萌动，生长最适温度为20～25℃;年降水量要在1000毫米以上；喜光耐阴，适于在漫射光下生育；一生分为幼苗期、幼年期、成年期和衮老期。树龄可达一二百年，但经济年龄一般为40～50年。我国西南部是茶树的起源中心，目前世界上有60个国家引种了茶树。在热带地区也有乔木型茶树高达15-30米， 基部树围1.5米以上，树龄可达数百年至上千年。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

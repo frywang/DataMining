@@ -1,0 +1,32 @@
+AVP:
+亚门=被子植物亚门
+门=被子植物门
+别名=油菊,疟疾草,苦薏,路边黄,山菊花,野黄菊,九月菊
+拉丁学名=Chrysanthemum indicum
+界=植物界
+种=菊花
+目=桔梗目
+族=春黄菊族
+中文学名=野菊
+科=菊科
+亚纲=合瓣花亚纲
+纲=双子叶植物纲
+分布区域=吉林,辽宁,河北,河南,山西,陕西,甘肃,福建等地
+亚种=野菊花
+属=菊属
+亚科=管状花亚科
+
+TAG:
+中医
+中药
+医生
+植物
+植物药
+
+INFO:
+野菊花（学名：Dendranthema indicum）为菊科多年生草本植物，菊科菊属植物。野菊花头状花序的外形与菊花相似，野生于山坡草地、田边、路旁等野生地带。野菊花性微寒，具疏散风热、消肿解毒，有极高的药用价值。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

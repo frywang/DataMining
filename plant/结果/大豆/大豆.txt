@@ -1,0 +1,29 @@
+AVP:
+二名法=soybean
+拉丁学名=Glycine max
+别名=Soybean
+门=被子植物门 Magnoliophyta
+界=植物界
+种=大豆种 G.max
+目=豆目 Fabales
+中文学名=大豆
+科=豆科 Fabaceae
+纲=双子叶植物纲 Magnoliopsida
+分布区域=中国,美国,巴西等区域
+亚科=蝶形花亚科 Faboideae
+属=大豆属 Glycine
+
+TAG:
+自然学科
+植物
+生物学
+种子植物门
+被子植物亚门
+
+INFO:
+黄豆（学名：Glycine max）又叫青仁乌豆、大豆、泥豆、马料豆、秣食豆，品种有，冬豆，秋豆，四季豆，我国主产于东北地区。中国古称菽，是一种其种子含有丰富蛋白质的作物。豆科植大豆呈椭圆形、球形，颜色有黄色、淡绿色、黑色等。大豆最常用来做各种豆制品、榨取豆油、 酿造酱油和提取蛋白质。豆渣或磨成粗粉的大豆也常用于禽畜饲料。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

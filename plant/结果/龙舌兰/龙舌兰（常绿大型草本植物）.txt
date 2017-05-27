@@ -1,0 +1,27 @@
+AVP:
+中文学名=龙舌兰
+科=龙舌兰科
+纲=单子叶植物纲
+二名法=Agave americana
+分布区域=墨西哥西部地区
+门=被子植物门
+别名=龙舌掌,番麻
+拉丁学名=Agave americana L.
+界=植物界
+属=龙舌兰属
+目=百合目
+
+TAG:
+植物
+毒物
+自然
+花卉
+草本植物
+
+INFO:
+龙舌兰（Agave americana L.）又名龙舌掌、番麻，为龙舌兰科，龙舌兰属多年生常绿大型草本植物。因其叶片坚挺，四季常青，花黄绿色，开花后花序上生成的珠芽极少。原产地一般要几十年后才开花，开花后母株枯死，异花授粉才能结实。喜排水良好，肥沃而湿润的沙质壤。原产美洲热带；中国华南及西南各省区常引种栽培。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

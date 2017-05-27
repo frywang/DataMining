@@ -1,0 +1,18 @@
+AVP:
+中文学名=丁香树
+科=木犀科
+拉丁学名=clove tree
+界=植物界
+
+TAG:
+植物
+木本植物
+乔木
+
+INFO:
+丁香树（clove tree）， 为木犀科落叶灌木或小乔木。其单叶对生，椭圆或披针形；花两性，漏斗状，顶生；花小芳香，有白色，紫色，紫红色或蓝色；许多小花组成硕大的圆锥形花序，布满整个枝叶，浓香袭人，极具观赏价值。常见的品种有白丁香，紫丁香，佛手丁香等。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

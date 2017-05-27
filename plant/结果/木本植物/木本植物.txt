@@ -1,0 +1,24 @@
+AVP:
+中文名=木本植物
+外文名=woody plants
+对应词=草本植物
+分布=全国
+生长周期=多年生
+分类=乔木,灌木,半灌木
+
+TAG:
+自然学科
+植物
+生物学
+自然
+词语
+
+INFO:
+木本植物（woody plant）指根和茎因增粗生长形成大量的木质部，而细胞壁也多数木质化的坚固的植物。植物体木质部发达，茎坚硬，多年生。与草本植物相对，人们常将前者称为树，后者称为草 。
+木本植物依形态不同，分乔木、灌木和半灌木三类。
+木本植物是木材的来源，均为多年生植物。另外除买麻藤纲外所有裸子植物均属于木本植物、笔筒树是仅有的蕨类木本植物。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

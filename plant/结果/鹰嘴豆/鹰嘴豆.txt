@@ -1,0 +1,29 @@
+AVP:
+二名法=C. arietinum
+拉丁学名=Cicer arietinum
+别名=回鹘豆，桃豆,鸡豆,诺胡提,羊角状鹰嘴豆
+门=被子植物门 Angiospermae
+界=植物界
+目=蔷薇目 Rosales
+族=鹰嘴豆族 Trib. Cicereae
+中文学名=鹰嘴豆
+科=豆科 Leguminosae
+纲=双子叶植物纲 Dicotyledoneae
+亚纲=原始花被亚纲 Archichlamydeae
+分布区域=分布于地中海沿岸,亚洲,非洲,美洲等地
+亚目=蔷薇亚目 Rosineae
+亚科=蝶形花亚科 Papilionoideae
+属=鹰嘴豆属 Cicer
+
+TAG:
+食品
+植物
+双子叶植物纲
+
+INFO:
+鹰嘴豆（学名：Cicer arietinum），又名桃尔豆、鸡豆、鸡心豆等，是印度和巴基斯坦的重要的蔬菜之一，在欧洲食用鹰嘴豆也十分普遍，也是维吾尔医常用药材。因其面形奇特，尖如鹰嘴，故称此名。鹰嘴豆为豆科草本植物，起源于亚洲西部和近东地区。 是世界上栽培面积较大的豆类植物，约一亿五千万亩，其中印度和巴基斯坦两国的种植面积 占全世界的80%以上，中国只有零星分布。鹰嘴豆的淀粉具有板栗香味。 鹰嘴豆粉加上奶粉制成豆乳粉，易于吸收消化，是婴儿和老年人的营养食品。鹰嘴豆还可以做成各种点心和油炸豆。籽粒可做利尿剂、催奶剂、可治疗失眠，预防皮肤病和防治胆病。淀粉广泛用于造纸工业纺织工业。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

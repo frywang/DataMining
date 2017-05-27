@@ -1,0 +1,29 @@
+AVP:
+二名法=Sonchus oleraceus
+拉丁学名=Sonchus oleraceus L.
+别名=苦菜,苦苣,扎库日
+门=被子植物门
+界=植物界
+种=苦苣菜
+目=桔梗目
+族=菊苣族
+中文学名=苦苣菜
+科=菊科
+纲=双子叶植物纲
+亚纲=合瓣花亚纲
+分布区域=几遍全球分布。
+亚科=舌状花亚科
+属=苦苣菜属
+
+TAG:
+植物
+经济植物
+自然
+
+INFO:
+苦苣菜（学名：Sonchus oleraceus L.），又名：滇苦菜、苦荬菜、拒马菜、苦苦菜、野芥子，英名Common Sowthistle，属于菊科，苦苣菜属。 药用植物，具有清热解毒，凉血止血作用。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

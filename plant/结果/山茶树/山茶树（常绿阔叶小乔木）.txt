@@ -1,0 +1,21 @@
+AVP:
+中文学名=山茶树（OilteaCamellia）
+科=山茶科
+分布区域=我国南方少数省县的部分高山地区。
+别名=苦茶,建茶,白花茶
+拉丁学名=Camellia-Oilfera Abel
+界=植物界
+属=山茶属
+
+TAG:
+乔木
+木本植物
+植物
+
+INFO:
+山茶树四季常绿阔叶小乔木，是世界四大木本油料之一，是中国特有的一种纯天然高级油料。全国年产量仅有20万吨左右，极其珍贵。 山茶籽其营养成份完全来自天然无污染的空气和肥沃的土壤。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

@@ -1,0 +1,24 @@
+AVP:
+中文学名=茱萸
+科=山茱萸科
+纲=双子叶植物纲 Magnoliopsida
+分布区域=中国的大部分地区
+门=被子植物门 Magnoliophyta
+别名=越椒,艾子
+拉丁学名=Cornus
+界=植物界
+目=山茱萸目 Cornales
+
+TAG:
+中草药
+植物
+词语
+
+INFO:
+茱萸，又名“越椒”、“艾子”，是一种常绿带香的植物，具备杀虫消毒、逐寒祛风的功能。木本茱萸有吴茱萸、山茱萸和食茱萸之分，都是著名的中药。佩茱萸，汉族岁时风俗之一。在九月九日重阳节时爬山登高，臂上佩带插着茱萸的布袋（古时称“茱萸囊”）。
+茱萸是一种落叶小乔木，开小黄花，果实椭圆形，红色，味酸，可入药。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

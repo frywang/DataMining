@@ -1,0 +1,25 @@
+AVP:
+拉丁学名=Photinia davidsoniae Rehd. et Wils.
+别名=梅子树,水红树花,凿树
+门=被子植物门
+界=植物界
+种=常绿石楠
+目=蔷薇目
+中文学名=椤木石楠
+科=蔷薇科
+纲=双子叶植物纲
+亚纲=原始花被亚纲
+亚目=蔷薇亚目
+亚科=苹果亚科
+属=石楠属
+
+TAG:
+植物
+
+INFO:
+绿乔木，高6-15米；幼枝黄红色，后成紫褐色，有稀疏平贴柔毛，老时灰色，无毛，有时具刺。产陕西、江苏、安徽、浙江、江西、湖南、湖北、四川、云南、福建、广东、广西。生于灌丛中，海拔600-1000米。分布越南、缅甸、泰国。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

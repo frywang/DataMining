@@ -1,0 +1,29 @@
+AVP:
+拉丁学名=Plumeria rubra 'Acutifolia'
+别名=“庙树”或“塔树”
+门=被子植物门
+界=植物界
+亚属=夹竹桃科鸡蛋花属落叶小乔木或灌木
+种=鸡蛋花树
+目=捩花目
+药名=鸡蛋花
+族=鸡蛋花族
+中文学名=鸡蛋花树
+科=夹竹桃科
+纲=双子叶植物纲
+亚纲=合瓣花亚纲
+分布区域=广东,广西
+亚目=落叶灌木或小乔木
+亚科=鸡蛋花亚科
+属=鸡蛋花属
+
+TAG:
+植物
+
+INFO:
+鸡蛋花树，Plumeria rubra 'Acutifolia'，夹竹桃科鸡蛋花属植物。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

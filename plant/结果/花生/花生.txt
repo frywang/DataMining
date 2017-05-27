@@ -1,0 +1,31 @@
+AVP:
+拉丁学名=Arachis hypogaea Linn.
+别名=落生,落花生,长生果,泥豆,番豆,地豆
+门=被子植物门
+界=植物界
+目=蔷薇目
+族=合萌族
+英文名=peanut
+中文学名=落花生
+科=豆科
+纲=双子叶植物纲
+亚纲=原始花被亚纲
+分布区域=亚洲,非洲,美洲等地区
+亚目=蔷薇亚目
+亚科=蝶形花亚科
+属=落花生属
+
+TAG:
+食品
+植物
+人物
+自然
+词语
+
+INFO:
+花生（peanut），原名落花生（学名：Arachis hypogaea Linn.），是我国产量丰富、食用广泛的一种坚果，又名“长生果”、“落花生”。属蔷薇目，豆科一年生草本植物，茎直立或匍匐，长30-80厘米，翼瓣与龙骨瓣分离，荚果长2-5厘米，宽1-1.3厘米，膨胀，荚厚，花果期6-8月。主要分布于巴西、中国、埃及等地。可用于制皂和生发油等化妆品的原料。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

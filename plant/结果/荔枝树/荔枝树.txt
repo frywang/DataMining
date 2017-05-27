@@ -1,0 +1,24 @@
+AVP:
+中文学名=荔枝
+科=无患子科
+纲=双子叶植物纲
+亚纲=原始花被亚纲
+命名者及年代=Sonn.1782
+二名法=Litchi chinensis
+拉丁学名=Litchi chinensis Sonn.
+门=被子植物门
+界=植物界
+目=无患子目
+亚科=无患子亚科
+属=荔枝属
+
+TAG:
+植物
+
+INFO:
+ 荔枝根系因苗木繁殖方法不同而异。实生树及嫁接树有发达的主根；高压（圈枝）繁殖的荔枝侧根须根发达，没有主根。荔枝的根系由很多粗壮发达的侧根和纤细茂密的细根所组成，初生的幼根白色，肉质，质脆易断，俗称“豆芽根”。老根呈灰褐色。荔枝根系与真菌共生，形成菌根，为总状分枝式。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

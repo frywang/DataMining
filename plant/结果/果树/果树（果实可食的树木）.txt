@@ -1,0 +1,20 @@
+AVP:
+中文名=果树
+出自=《后汉书·淳于恭传》
+性质=果实可食的树木
+分类=仁果类果树 核果类果树
+
+TAG:
+木本植物
+植物
+
+INFO:
+果实可食的树木，即称果树。
+能提供可供食用的果实、种子的多年生植物及其砧木的总称。
+《后汉书·淳于恭传》：“家有山田果树，人或侵盗，辄助为收采。”
+杨朔《蓬莱仙境》：“冬天北风一吹，果树苗会冻死半截。”
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

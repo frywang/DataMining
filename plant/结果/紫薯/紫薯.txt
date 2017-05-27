@@ -1,0 +1,25 @@
+AVP:
+中文学名=紫薯
+科=旋花科
+纲=双子叶植物纲
+分布区域=广东,广西,湖南,湖北,福建,江西；亚洲其它热带地区
+拉丁学名=Solanum tuberdsm
+别名=黒薯,苕薯
+门=被子植物门
+界=植物界
+种=紫薯
+目=管状花目
+属=番薯属
+
+TAG:
+植物
+食品
+农作物
+
+INFO:
+紫薯（Ipomoea batatas (L.) Poir.旋花科  Convolvulaceae  番薯属）又叫黑薯，薯肉呈紫色至深紫色。它除了具有普通红薯的营养成分外，还富含硒元素和花青素。紫薯为花青素的主要原料之一。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

@@ -1,0 +1,26 @@
+AVP:
+门=被子植物门
+别名=芙蓉
+拉丁学名=Hibiscus mutabil
+界=植物界
+种=芙蓉
+目=锦葵目
+族=木槿族
+中文学名=木芙蓉
+科=锦葵科
+亚纲=五桠果亚纲
+纲=双子叶植物纲
+拼音=Fu Rong
+属=木槿属
+
+TAG:
+植物
+
+INFO:
+芙蓉，即木芙蓉（学名：Hibiscus mutabilis），是一种原产于中国的植物。英语称mufurong（木芙蓉）。
+芙蓉花。锦葵科植物，花美丽，白色或粉红色，到夜间变紫红色。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

@@ -1,0 +1,29 @@
+AVP:
+命名者及年代=Lam.,1783
+门=被子植物门
+别名=杏子
+拉丁学名=Armeniaca vulgaris Lam.
+界=植物界
+种=杏（蔷薇科杏属植物）
+目=蔷薇目
+中文学名=杏
+科=蔷薇科
+纲=双子叶植物纲
+亚目=蔷薇亚目
+属=杏属
+亚科=李亚科
+
+TAG:
+木本植物
+植物
+自然
+食品
+
+INFO:
+杏（学名：Armeniaca vulgaris Lam.）落叶乔木。地生，植株无毛。叶互生，阔卵形或圆卵形叶子，边缘有钝锯齿；近叶柄顶端有二腺体；淡红色花单生或2-3个同生，白色或微红色。圆、长圆或扁圆形核果，果皮多为白色、黄色至黄红色，向阳部常具红晕和斑点；暗黄色果肉，味甜多汁；核面平滑没有斑孔，核缘厚而有沟纹。种仁多苦味或甜味。花期3-4月，果期6-7月。
+中国各地多有栽培。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

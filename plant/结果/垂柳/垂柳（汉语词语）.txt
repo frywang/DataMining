@@ -1,0 +1,24 @@
+AVP:
+中文学名=垂柳
+科=杨柳科 Salicaceae
+纲=双子叶植物纲 Dicotyledoneae
+门=被子植物门 Angiospermae
+拉丁学名=Salix babylonica
+界=植物界
+属=柳属 Salix
+目=杨柳目 Salicales
+
+TAG:
+中药
+乔木
+木本植物
+植物
+词语
+
+INFO:
+垂柳，指乔木，雌雄异体，树枝细长，柔软下垂，叶子基部宽，前端渐尖。也叫“垂杨柳”。语出南朝 梁简文帝 《长安道》诗：“落花依度幰，垂柳拂行轮。”
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

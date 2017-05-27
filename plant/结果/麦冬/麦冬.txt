@@ -1,0 +1,28 @@
+AVP:
+中文学名=麦冬
+科=百合科
+纲=单子叶植物纲
+二名法=Ophiopogon japonicus
+分布区域=西南及江苏,安徽,浙江,福建,广西
+拉丁学名=Ophiopogon japonicus
+别名=麦门冬,沿阶草,书带草
+门=被子植物门
+界=植物界
+种=麦冬
+目=百合目
+属=沿阶草属
+
+TAG:
+药品
+植物
+医生
+自然
+中医
+
+INFO:
+麦冬（Ophiopogon japonicus）又名沿阶草、书带草、麦门冬、寸冬，为百合科沿阶草属多年生常绿草本植物。须根较粗壮，根的顶端或中部常膨大成为纺锤状肉质小块。以块根入药。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

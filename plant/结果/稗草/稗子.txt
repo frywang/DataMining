@@ -1,0 +1,19 @@
+AVP:
+中文学名=稗子
+科=禾本科 Gramineae
+拉丁学名=Echinochloa crusgalli (L.) Beauv.
+别名=稗,稗草
+属=稗属 Echinochloa Beauv.
+类别=药用植物,饲料植物,纤维植物
+
+TAG:
+植物
+草本植物
+
+INFO:
+稗子是一年生草本植物。稗子适应性强，长在稻田里、沼泽、沟渠旁、低洼荒地及稻田中，形状似稻但叶片毛涩，颜色较浅，是稻田里的恶性杂草,因此败家子中的“败”就是稗子演变过来的。也是马牛羊等的一种好的饲养原料，营养价值也较高，根及幼苗可药用，能止血，主治创伤出血。茎叶纤维可作造纸原料。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

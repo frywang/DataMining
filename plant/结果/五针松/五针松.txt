@@ -1,0 +1,22 @@
+AVP:
+中文学名=五针松
+科=松科
+纲=松柏纲
+分布区域=原产日本,中国引种历史悠久,各地广泛栽培
+拉丁学名=Pinus parviflora
+别名=日本五须松,五钗松,日本五针松
+门=裸子植物门
+目=松柏目
+属=松属
+
+TAG:
+植物
+
+INFO:
+五针松（Pinus parviflora）因五叶丛生而得名。五针松品种很多，其中以针叶最短（叶长2厘米左右）、枝条紧密的大板松最为名贵。目前，五针松盆景已在中国各地普遍栽种。五针松植株较矮，生长缓慢，叶短枝密，姿态高雅，树形优美，是制作盆景的上乘树种。
+
+TYPES:
+http://dbpedia.org/ontology/Conifer
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

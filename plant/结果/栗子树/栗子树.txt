@@ -1,0 +1,20 @@
+AVP:
+中文学名=栗子树
+科=壳斗科
+分布区域=亚洲,欧洲,美洲和非洲
+拉丁学名=Castanea mollissima Blume
+界=植物界
+属=栗属
+
+TAG:
+植物
+木本植物
+乔木
+
+INFO:
+栗子树，落叶乔木，果实叫栗子，果仁味甜，可以吃。木材坚实，供建筑和制器具用，树皮可供鞣皮及染色用，栗子树的园林应用，在各地的园林绿化中，栗子树被作为优秀的风景树栽植，一般为半冠移栽。主要产于山东、安徽、江苏、河北、河南等地。栗子与桃、杏、李、枣并称“五果”。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

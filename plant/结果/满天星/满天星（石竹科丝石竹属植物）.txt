@@ -1,0 +1,32 @@
+AVP:
+园林用途=花丛,花境,地被,岩石园,切花
+二名法=Gimpsophylla paniculata
+门=被子植物门(Angiospermae)
+别名=丝石竹,霞草,锥花丝石竹,圆锥石头花
+拉丁学名=Gypsophila
+花语=清纯,关怀,思恋,配角,真爱
+界=植物界
+目=石竹目(Caryophyllales),亦称中央胎座目(Centrospermae)
+英文名=Baby's breath
+中文学名=满天星（石竹科丝石竹属植物）
+花色=白色,粉色,红色
+科=石竹科（Caryophyllaceae）
+亚纲=石竹亚纲（Caryophyllidae）
+纲=双子叶植物纲(Dicotyledoneae),又称木兰纲
+分布区域=原产地中海地区
+属=丝石竹属（Gypsophila L.）
+
+TAG:
+中药
+植物
+花卉
+药品
+食品
+
+INFO:
+满天星,原名：圆锥石头花，别名：锥花丝石竹、圆锥花丝石竹、丝石竹、锥花霞草、满天星，拉丁文名：Gypsophila paniculata L. 石竹科、石头花属多年生草本。产新疆阿尔泰山区和塔什库尔干。生于海拔1 100-1 500米河滩、草地、固定沙丘、石质山坡及农田中。哈萨克斯坦、俄罗斯（西伯利亚）、蒙古（西部）、欧洲（西部、中部和东部）、北美也有。根、茎可供药用。栽培可供观赏。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

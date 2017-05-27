@@ -1,0 +1,25 @@
+AVP:
+中文学名=铺地柏（Procumbent juniper）
+科=柏科 Cupressaceae
+纲=松柏纲 Pinopsida
+分布区域=原产日本,于中国华北,华东,西南地区分布
+拉丁学名=Sabina procumbens(Endl.)Iwata et Kusaka
+别名=爬地柏,矮桧,匍地柏,偃柏,铺地松,铺地龙,地柏
+门=裸子植物门 Pinophyta
+界=植物界
+种=铺地柏 j.ptocumbens
+目=松柏目 Pinales
+属=圆柏属 Juniperus
+
+TAG:
+植物
+自然
+种子植物门
+
+INFO:
+形态特征：常绿小灌木。树皮赤褐色，呈鳞片状剥落。枝茂密柔软，匍地而生。叶全为刺叶，三叶交叉轮生，叶面有两条气孔线，叶背蓝绿色，叶基下延生长。球果球形，带蓝色。内含种子2～3粒。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

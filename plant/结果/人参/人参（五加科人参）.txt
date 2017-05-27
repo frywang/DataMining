@@ -1,0 +1,32 @@
+AVP:
+保护级别=国家一级重点保护
+亚门=有管有胚植物Embryophyta Siphonogama
+二名法=Panaxquinquefolius L.
+门= 被子植物门
+别名=圆参,黄参,棒槌,人衔,鬼盖,神草,土精,地精,海腴,人葠
+拉丁学名=Panax ginseng C. A. Mey.
+界=植物界
+种=人参属
+目=伞形目
+族=人参族
+中文学名=人参
+科=五加科
+亚纲=蔷薇亚纲
+纲=木兰纲
+分布区域=吉林,辽宁,黑龙江
+属=人参属
+
+TAG:
+中医
+医生
+植物
+药品
+食品
+
+INFO:
+人参（Panax ginseng C. A. Mey）是多年生草本植物，喜阴凉，叶片无气孔和栅栏组织，无法保留水分，温度高于32度叶片会灼伤，郁闭度0.7-0.8。通常3年开花，5-6年结果，花期5-6月，果期6-9月。生长于北纬33度—48度之间的海拔，数百米的以红松为主的针阔混交林或落叶阔叶林下，产于中国东北、朝鲜、韩国、日本、俄罗斯东部。人参的别称是 黄参、地精、神草、百草之王，是闻名遐迩的“东北三宝”之一。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

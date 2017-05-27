@@ -1,0 +1,32 @@
+AVP:
+同义学名=Panicum italicum L.,Chaetochloa italica
+命名者及年代=P. Beauv.
+拉丁学名=Setaria italica
+别名=小米,粟
+门=被子植物门
+界=植物界
+种=粟
+目=禾本目
+中文学名=谷子
+科=禾本科
+纲=单子叶植物纲
+亚纲=鸭跖草亚纲
+英文名称=Foxtail millet
+分布区域=分布：中国,日本,欧洲
+属=狗尾草属
+
+TAG:
+植物
+自然
+词语
+农作物
+研究员
+
+INFO:
+谷子（学名：Setaria italica）：属禾本科的一种植物。古称稷、粟，亦称粱。一年生草本；秆粗壮、分蘖少，狭长披针形叶片，有明显的中脉和小脉，具有细毛；穗状圆锥花序；穗长20～30厘米；小穗成簇聚生在三级支梗上，小穗基本有刺毛。每穗结实数百至上千粒，子实极小，径约0.1cm，谷穗一般成熟后金黄色，卵圆形籽实，粒小多为黄色。去皮后俗称小米。粟的稃壳有白、红、黄、黑、橙、紫各种颜色，俗称“粟有五彩”。广泛栽培于欧亚大陆的温带和热带，中国黄河中上游为主要栽培区，其他地区也有少量栽种。
+
+TYPES:
+http://dbpedia.org/ontology/Plant
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Agent

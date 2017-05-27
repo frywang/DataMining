@@ -1,0 +1,29 @@
+AVP:
+二名法=Callistephus chinensis
+主要分类=彗星型,驼羽型,管瓣型,松针型
+拉丁学名=Callistephus chinensis (L.) Nees
+别名=江西腊,七月菊,格桑花
+门=被子植物门
+界=植物界
+种=翠菊
+目=菊目
+中文学名=翠菊
+科=菊科
+花色=红,紫,蓝,白,黄
+纲=双子叶植物纲
+亚纲=菊亚纲
+分布区域=中国,日本,朝鲜
+属=翠菊属
+
+TAG:
+植物
+自然
+花卉
+
+INFO:
+翠菊为菊科、翠菊属植物。亦称一年生紫菀(annual aster)。 菊科(Asteraceae)草本植物，学名为Callistephus chinensis。许多栽培品种久已为庭园观赏花卉。中国的乡土种高75公分(2.5呎)，花白色至紫堇色，中心部分的盘花黄色。栽培品种高20公分∼1公尺(8吋∼3呎)，头状花序宽达12公分（约5吋），通常完全由花瓣状的舌状花所组成，白、淡黄、粉红、淡红、淡蓝、紫或紫堇色。翠菊花色鲜艳，花型多样，开花丰盛，花期颇长，是国内外园艺界非常重视的观赏植物。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

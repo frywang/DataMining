@@ -1,0 +1,24 @@
+AVP:
+中文学名=菊
+科=菊科
+纲=双子叶植物纲
+门=种子植物门
+别名=寿客,金英,黄华,秋菊,陶菊
+拉丁学名=Chrysanthemum
+界=植物界
+种=菊
+属=菊属
+目=桔梗目
+英文名=Chrysanthemum
+
+TAG:
+植物
+草本植物
+
+INFO:
+菊花属菊科（学名：Dendranthema morifolium），俗称菊花，别名寿客、金英、黄华、秋菊、陶菊等，是菊目菊科多年生草本植物。原产于我国，中国是世界菊花的起源中心，分布有较多的野生菊花。在中国古典文学中及文化中，梅、兰、菊、竹合称四君子。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

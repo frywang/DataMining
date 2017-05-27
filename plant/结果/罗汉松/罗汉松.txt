@@ -1,0 +1,29 @@
+AVP:
+中文学名=罗汉松
+科=罗汉松科
+纲=松杉纲
+组=罗汉松组
+二名法=Podocarpus macrophyllus
+分布区域=江苏,浙江,福建,安徽
+拉丁学名=Podocarpus macrophyllus (Thunb.) D. Don
+别名=罗汉杉,长青罗汉杉,土杉,金钱松,仙柏,罗汉柏,江南柏
+门=裸子植物门
+种=罗汉松
+目=罗汉松目
+属=罗汉松属
+
+TAG:
+植物
+自然
+种子植物门
+中药
+木本植物
+
+INFO:
+罗汉松（Podocarpus macrophyllus），别名土杉，罗汉松科，罗汉松属常绿针叶乔木。高达20m，胸径60cm，树冠广卵形。树皮灰褐色至暗灰色，浅纵裂，片状脱落。枝叶稠密，叶条状披针形，螺旋状互生，长7～12cm，宽7～10mm，两面中肋明显隆起，表面浓绿色，背面黄绿色。喜温暖湿润气候，耐寒性弱，华北盆栽观赏，分布江苏、浙江、福建、安徽等地。材质细致均匀，易加工。有药用价值，可作家具、器具、文具及农具等用。
+
+TYPES:
+http://dbpedia.org/ontology/Conifer
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

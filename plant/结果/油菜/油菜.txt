@@ -1,0 +1,34 @@
+AVP:
+二名法=上海青
+细胞分裂方式=有丝分裂
+拉丁学名=Brassica campestris L.
+别名=芸薹,寒菜,胡菜,苦菜,薹芥,瓢儿菜。佛佛菜
+门=被子植物门
+界=植物界
+种=白菜
+目=罂粟目
+族=芸薹族/url
+中文学名=油菜
+科=十字花科
+纲=双子叶植物纲
+亚纲=原始花被亚纲
+英文名称=Edible Rape,Rapeseed
+亚种=油菜
+拼音=yóu cài
+亚目=非常
+亚科=蔬菜
+属=芸薹属
+
+TAG:
+饮食
+食品
+植物
+
+INFO:
+油菜，又叫油白菜，苦菜，拉丁文名：Brassica campestris L.十字花科、芸薹属植物，油菜的嫩茎叶，原产我国，其茎颜色深绿，帮如白菜，属十字花科白菜变种，花朵为黄色。农艺学上将植物中种子含油的多个物种统称油菜。目前油菜主要栽培（品种）类型为： 白菜型油菜（ Brassica rapa (campestris) L.），  芥菜型油菜（ Brassica juncea L.） ， 甘蓝型油菜（ Brassica napus L.）。
+分布在安徽、河南、四川等地。油营养丰富，其中维生素C含量很高。油菜一般生长在气候相对相对湿润的地方，譬如中国的南方。油菜也有许多用处，比如油菜花在含苞未放的时候可以食用；油菜花盛开时也是一道亮丽的风景线（中国陕西的汉中市就有一片油菜花观赏旅游区）；花朵凋谢后，油菜籽可以榨油。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant

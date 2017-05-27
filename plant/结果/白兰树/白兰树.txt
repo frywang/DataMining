@@ -1,0 +1,18 @@
+AVP:
+中文学名=白兰花
+科=木兰科
+纲=双子叶植物纲
+门=被子植物门
+界=植物界
+属=含笑属
+
+TAG:
+植物
+
+INFO:
+白兰，拉丁名：Magnolia denudata；别名：木兰、玉兰、望春花、木兰科、木兰属。又称缅桂、白玉兰。产于亚洲和北美的温带和热带。是名贵香花树种。
+
+TYPES:
+http://dbpedia.org/ontology/Eukaryote
+http://dbpedia.org/ontology/Species
+http://dbpedia.org/ontology/Plant
